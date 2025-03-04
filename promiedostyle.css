@@ -1,0 +1,2233 @@
+ul {
+    padding-inline-start: 5px;
+    padding-left: 2px
+}
+
+.banner img {
+    max-width: 50%
+}
+
+body {
+    width: 980px;
+    margin: auto;
+    font-family: Roboto, sans-serif, Arial, Helvetica;
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none
+}
+
+.game-t1 img,
+.game-t2 img {
+    width: 15px
+}
+
+#accordian {
+    background: #17573d;
+    width: 150px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    float: left;
+    font-size: 14px;
+    text-shadow: 1px 1px 1px #000
+}
+
+#abajo .material-icons {
+    display: block
+}
+
+.material-icons {
+    -webkit-font-feature-settings: none
+}
+
+#principal {
+    width: 800px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    float: left;
+    min-height: 600px
+}
+
+#menuboton {
+    display: none
+}
+
+#volvermenu {
+    display: none
+}
+
+#accordian h3 {
+    font-size: 16px;
+    line-height: 125%;
+    background: #102100;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    color: #c2e213
+}
+
+#accordian h4 {
+    box-shadow: inset 0 1px 0 0 #9acc85;
+    background: linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+    background-color: #74ad5a;
+    border: 1px solid #3b6e22;
+    display: block;
+    cursor: pointer;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+#accordian h4 a {
+    display: block;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 22px
+}
+
+#accordian h4 span {
+    font-size: 1em;
+    margin-right: .2em
+}
+
+#accordian h4:hover {
+    text-shadow: 0 0 .5em #fff
+}
+
+#accordian h3:hover {
+    text-shadow: 0 0 .5em #fff
+}
+
+#accordian h3 span {
+    font-size: 1em;
+    margin-right: .5em
+}
+
+#accordian li {
+    list-style-type: none
+}
+
+#accordian ul ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 150%;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+#partidos {
+    width: 60%;
+    margin-left: 120px
+}
+
+.bzh,
+.bgdg,
+.bvi,
+.bvi2 {
+    box-shadow: inset 0 1px 0 0 #9acc85;
+    background-color: #68a54b;
+    border: 1px solid #3b6e22;
+    display: inline-block;
+    cursor: pointer;
+    color: #fff;
+    font-size: .8em;
+    font-weight: 700;
+    padding: 3px 6px;
+    text-decoration: none;
+    text-shadow: 0 2px 2px #000
+}
+
+.bzh i,
+.bgdg i,
+.bvi i,
+.bvi2 i {
+    font-size: 15px
+}
+
+.bvi2 {
+    box-shadow: inset 0 1px 0 0 #000;
+    background-color: #83002b;
+    border: 1px solid #000
+}
+
+.envivo {
+    background: #83002b;
+    color: #fff;
+    font-size: 1em;
+    display: block;
+    text-align: center
+}
+
+#cajadia2 {
+    width: 70%;
+    margin: auto;
+    background: #e5e5e5;
+    text-align: center;
+    color: #000;
+    font-size: .8em
+}
+
+#cajadia {
+    width: 95px;
+    float: left;
+    margin-left: 5px;
+    background: #e5e5e5;
+    text-align: center;
+    color: #000;
+    font-size: 11px
+}
+
+.eldia {
+    background: #81a209;
+    border: 1px outset silver;
+    color: #FFF;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000
+}
+
+.titulopart {
+    color: #FFF;
+    display: block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px;
+    text-align: center;
+    background: #17573D
+}
+
+#cortar {
+    clear: both;
+    margin-bottom: 20px
+}
+
+.game-t1,
+.game-t2 {
+    line-height: 1.1em
+}
+
+#accordian ul ul li a:hover {
+    background: #213b0a;
+    border-left: .5em solid #c2e213
+}
+
+#accordian li.active ul {
+    display: block
+}
+
+#accordian h3 li.active ul {
+    background: red
+}
+
+#accordian .items-menu li:nth-child(odd) {
+    background-color: #015a1c
+}
+
+#accordian .items-menu li:nth-child(even) {
+    background-color: #024817
+}
+
+#fixturein {
+    font-size: .7em;
+    text-align: center;
+    background: #85a094;
+    margin-top: 10px
+}
+
+.titucuadros {
+    background: #125e2a;
+    text-align: center;
+    display: block;
+    color: #fff;
+    font-weight: 700;
+    border: 1px solid #e5e5e5;
+    border-bottom: none;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 1.1em
+}
+
+.titulo,
+.titulo2,
+.titulo3 {
+    color: #FFF;
+    display: block;
+    text-align: center;
+    font-weight: 700
+}
+
+.titulo2 {
+    background: #060d4e
+}
+
+.titulo3 {
+    background: #56146f
+}
+
+.falta {
+    width: 10%;
+    background: #155219;
+    color: #fff
+}
+
+.myButtonZH2 {
+    margin-top: 1em
+}
+
+.myButtonZH:hover,
+.myButtonZH2:hover {
+    background-color: green
+}
+
+#bayer,
+#bman {
+    float: left;
+    width: 20%;
+    background: green;
+    font-size: 1em;
+    text-align: center;
+    background-color: #68a54b;
+    border: 1px solid #000;
+    margin-bottom: 1em;
+    cursor: pointer
+}
+
+#bayer a,
+#bman a {
+    color: #fff;
+    text-decoration: none;
+    text-shadow: #000 .1em .1em .1em;
+    display: block
+}
+
+#bayer {
+    -webkit-border-top-left-radius: 1em;
+    -webkit-border-bottom-left-radius: 1em;
+    -moz-border-radius-topleft: 1em;
+    -moz-border-radius-bottomleft: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em
+}
+
+#bman {
+    -webkit-border-top-right-radius: 1em;
+    -webkit-border-bottom-right-radius: 1em;
+    -moz-border-radius-topright: 1em;
+    -moz-border-radius-bottomright: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em
+}
+
+#bayer:hover,
+#bman:hover {
+    background-color: #00f18d
+}
+
+.correhora {
+    font-size: .8em;
+    color: #ff0;
+    font-weight: 700
+}
+
+#titulo1,
+#titulo2,
+#titulos {
+    float: left;
+    width: 57%;
+    background: green;
+    color: #fff;
+    font-size: 1.1em;
+    text-align: center;
+    text-shadow: #000 .1em .1em .1em;
+    background: #125e2a;
+    border: 1px solid #000;
+    margin-bottom: 1em
+}
+
+#titulo2,
+#titulos {
+    width: 100%;
+    clear: both
+}
+
+#titulos {
+    font-size: 23px
+}
+
+.game-r1,
+.game-r2 {
+    width: 7%;
+    background: #fff;
+    font-size: 1.6em;
+    font-weight: 700
+}
+
+.game-t1,
+.game-t2 {
+    width: 30%;
+    background: #e5e5e5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+.game-tr {
+    width: 100%
+}
+
+.game-time,
+.game-play,
+.game-sus {
+    width: 15%;
+    background: #155219;
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px #000
+}
+
+.game-play {
+    background: #820300
+}
+
+.game-sus {
+    background: #c30404
+}
+
+.game-time img,
+.game-play img,
+.game-fin img {
+    width: 17px
+}
+
+.game-fin {
+    width: 15%;
+    background: #312d2c;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px #000
+}
+
+.game-info {
+    width: 10%;
+    background: green
+}
+
+.game-info a {
+    display: block;
+    cursor: pointer;
+    color: #fff;
+    margin-bottom: 50%;
+    margin-right: 50%
+}
+
+#tva {
+    font-size: 12px;
+    color: red;
+    float: right;
+    position: absolute
+}
+
+#inf {
+    color: #fff;
+    position: absolute
+}
+
+#tvl {
+    color: #fff;
+    position: absolute;
+    background: red
+}
+
+.game-info .material-icons {
+    position: absolute
+}
+
+.game-table {
+    width: 100%
+}
+
+.goles {
+    font-size: 12.2px;
+    font-weight: 700;
+    background: #fff;
+    border-spacing: 0;
+    text-align: left;
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px
+}
+
+.tituloin a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    display: block
+}
+
+#cuadros1 a,
+#cuadros2 a,
+#cuadros3 a,
+#cuadros4 a {
+    color: #fff;
+    text-decoration: none;
+    font-size: .7em;
+    font-weight: 700
+}
+
+#cuadros1 a {
+    font-size: .8em
+}
+
+#cuadros2 {
+    width: 19%;
+    float: left;
+    text-align: center;
+    background: #125e2a;
+    border: 1px solid #000;
+    text-shadow: 1px 1px 1px #000;
+    line-height: .7em;
+    cursor: pointer;
+    box-shadow: inset 0 10px 14px -7px #2f1f1f
+}
+
+#cuadros1 {
+    width: 40%;
+    float: left;
+    text-shadow: 1px 1px 1px #000;
+    color: #fff;
+    background: #125e2a;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: .8em;
+    cursor: pointer;
+    box-shadow: inset 0 10px 14px -7px #2f1f1f
+}
+
+#cuadros3 {
+    width: 19%;
+    float: left;
+    text-shadow: 1px 1px 1px #000;
+    color: #fff;
+    background: #125e2a;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: .7em;
+    cursor: pointer;
+    box-shadow: inset 0 10px 14px -7px #2f1f1f
+}
+
+#cuadros4 {
+    width: 19%;
+    float: left;
+    text-shadow: 1px 1px 1px #000;
+    color: #fff;
+    background: #125e2a;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: .7em;
+    cursor: pointer;
+    box-shadow: inset 0 10px 14px -7px #2f1f1f
+}
+
+#subt {
+    width: 8%;
+    float: left;
+    text-align: center;
+    background: #68a54b;
+    color: #e8fff1;
+    text-shadow: 1px 1px 1px #000;
+    border: 1px solid #3b6e22;
+    font-weight: 700;
+    font-size: 1.3em;
+    cursor: pointer
+}
+
+#bajt {
+    width: 8%;
+    float: left;
+    text-align: center;
+    background: #68a54b;
+    color: #e8fff1;
+    text-shadow: 1px 1px 1px #000;
+    border: 1px solid #3b6e22;
+    font-weight: 700;
+    font-size: 1.3em;
+    cursor: pointer
+}
+
+.vervivo {
+    box-shadow: inset 0 1px 0 0 #000;
+    background-color: #ad0040;
+    border: 1px solid #000;
+    float: left;
+    cursor: pointer;
+    color: #fff;
+    font-size: .6em;
+    font-weight: 700;
+    padding: 6px 12px;
+    text-decoration: none;
+    text-shadow: 0 2px 2px #000;
+    width: 20%;
+    text-align: center;
+    margin: auto
+}
+
+.plive,
+.pfin,
+.pemp,
+.pposta,
+.psusp,
+.pdem {
+    background: #e5e5e5;
+    text-align: center
+}
+
+.choy {
+    width: 100%;
+    background: #433535;
+    font-size: 1.1em;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700
+}
+
+#fixturein table {
+    width: 100%;
+    text-align: center
+}
+
+#fixturein table a {
+    display: block
+}
+
+.tituloin {
+    width: 100%;
+    background: #002d29;
+    color: #fff;
+    text-align: center;
+    padding-top: 1px;
+    color: #fff;
+    font-size: 1.3em;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 700
+}
+
+.roja {
+    background: red;
+    width: 5px;
+    height: 5px;
+    margin-top: 1px
+}
+
+.rojas1 {
+    width: 5px;
+    float: left
+}
+
+.rojas2 {
+    width: 5px;
+    float: right
+}
+
+.rojas1 .roja {
+    margin-left: 1px
+}
+
+.rojas2 .roja {
+    margin-left: -1px
+}
+
+.pimp {
+    background: #e5e5e5
+}
+
+.datoequipo {
+    font-size: 13.5px;
+    font-weight: 700
+}
+
+.goles i {
+    color: #b34;
+    font-style: normal
+}
+
+#cant,
+#cant2 {
+    width: 70px;
+    float: left;
+    text-align: center;
+    background: #125e2a;
+    color: #e8fff1;
+    text-shadow: 1px 1px 1px #000;
+    border: 1px solid #3b6e22;
+    font-weight: 700;
+    font-size: 1.1em;
+    cursor: pointer;
+    padding: 1.4px;
+    box-shadow: inset 0 10px 14px -7px #31a000
+}
+
+#cant2 {
+    width: 45px;
+    background: #7b000a;
+    box-shadow: inset 0 10px 14px -7px #2f1f1f
+}
+
+#cant:hover {
+    background: #07b940
+}
+
+#cant2:hover {
+    background: red
+}
+
+#fixturein table {
+    border-spacing: 1.5px;
+    table-layout: fixed
+}
+
+#abajo {
+    width: 100%
+}
+
+.diapart {
+    background: #092B1D;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: center
+}
+
+#botongral1,
+#botongral2,
+#botongral3a,
+#botongral3b {
+    background-color: #144;
+    border: 1px solid #000;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1em;
+    text-align: center;
+    width: 40%;
+    overflow: hidden;
+    text-decoration: none;
+    font-size: .85em;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 2px 2px #000
+}
+
+#botongral1 a,
+#botongral2 a,
+#botongral3a a,
+#botongral3b a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 2px 2px #000;
+    display: block
+}
+
+#botongral3a,
+#botongral3b {
+    font-size: .7em
+}
+
+#botongral2 {
+    width: 10%
+}
+
+#botongral3a {
+    width: 10%;
+    background: #2e8b57;
+    float: right
+}
+
+#botongral3b {
+    width: 10%;
+    background: #580000;
+    float: right
+}
+
+#botongral1:hover,
+#botongral2:hover {
+    background: green
+}
+
+#cuadrono {
+    width: 100%;
+    text-align: center;
+    font-size: .9em;
+    background: #170000;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+#cuadrono a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700
+}
+
+#accordian i {
+    font-size: 16px
+}
+
+.botonch {
+    font-size: .8em
+}
+
+.botonch a {
+    font-size: .8em
+}
+
+#somediv {
+    background: #000;
+    color: #000;
+    width: 380px;
+    position: fixed
+}
+
+#cerrar {
+    background: #580000;
+    color: #fff;
+    cursor: pointer;
+    width: 90px;
+    text-align: center
+}
+
+#posiciones td,
+#promedios td,
+#cuadroest td {
+    overflow: hidden;
+    text-overflow: clip;
+    white-space: nowrap
+}
+
+.botonch2 a,
+.botonch2 {
+    text-align: center;
+    font-size: 13px;
+    background: #2c5e59;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+    display: block
+}
+
+#haygol1,
+#haygol2,
+#haygol3,
+#haygol4,
+#haygol5 {
+    display: none;
+    position: fixed;
+    font-size: 14px;
+    bottom: 3%;
+    right: 3%;
+    background: #2e8b57;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    z-index: 1000;
+    filter: opacity(0.9)
+}
+
+#haygol2 {
+    bottom: 18%
+}
+
+#haygol3 {
+    bottom: 40%
+}
+
+#haygol4 {
+    bottom: 62%
+}
+
+#haygol5 {
+    bottom: 84%
+}
+
+.botonl {
+    box-shadow: inset 0 1px 0 0 #9acc85;
+    background-color: #68a54b;
+    border: 1px solid #3b6e22;
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    filter: drop-shadow(2px 4px 6px black);
+    text-align: center;
+    margin-left: 10px
+}
+
+#botoneraliga {
+    width: 100%;
+    margin: auto
+}
+
+a .botonl {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    text-shadow: 0 2px 2px #000;
+    font-weight: 700;
+    margin-top: 2px
+}
+
+.titulotabla,
+.titulotabla2 {
+    text-align: center;
+    font-size: 1em;
+    background: #00612d;
+    color: #fff;
+    border: 1px solid #000;
+    width: 100%;
+    text-shadow: 1px 1px 1px #000
+}
+
+.titulotabla2 {
+    color: #fff;
+    background: #3c6f23;
+    text-shadow: 0 2px 2px #000;
+    font-weight: 700;
+    font-size: 14px
+}
+
+#posiciones,
+#promedios,
+#promedios2,
+#cuadroest {
+    font-size: .9em;
+    width: 380px;
+    text-align: center;
+    background: #797979
+}
+
+#cuadroest td:nth-child(2),
+#cuadroest td:nth-child(3),
+#cuadroest td:nth-child(4) {
+    font-weight: 700
+}
+
+#cuadroest td:nth-child(2) {
+    text-align: left
+}
+
+.foulscom {
+    background: #000;
+    color: #fff
+}
+
+.porcenpos {
+    background: green;
+    color: #fff
+}
+
+.dispalarco {
+    background: #1f8a73;
+    color: #fff
+}
+
+.penalesfv {
+    background: #1161a0;
+    color: #fff
+}
+
+.penalescont {
+    background: #99524a;
+    color: #fff
+}
+
+.amarec {
+    background: #ff0;
+    color: #000
+}
+
+.rojasrec {
+    background: red;
+    color: #fff
+}
+
+.cuadroest {
+    width: 260px;
+    float: left;
+    margin-bottom: 20px
+}
+
+#cuadroest {
+    width: 250px
+}
+
+#cuadroest th {
+    font-size: 11px;
+    font-weight: 700
+}
+
+#promedios {
+    width: 400px
+}
+
+#promedios2 {
+    width: 380px
+}
+
+#posiciones td:nth-child(2),
+#posiciones td:nth-child(3) {
+    font-weight: 700
+}
+
+#promedios td:nth-child(2),
+#promedios td:nth-child(8),
+#promedios2 td:nth-child(2),
+#promedios2 td:nth-child(7) {
+    font-weight: 700
+}
+
+#posiciones img,
+#promedios img,
+#promedios2 img {
+    width: 18px
+}
+
+#posiciones .punt,
+#goleadorest .punt {
+    background: #90ee90
+}
+
+#rankingstabla {
+    float: left;
+    width: 290px
+}
+
+#golseccion {
+    width: 380px;
+    float: left;
+    margin-top: 20px
+}
+
+#golseccion2 {
+    width: 400px;
+    margin-top: 20px
+}
+
+#rankingstabla table {
+    width: 100%;
+    font-size: .9em;
+    font-weight: 700
+}
+
+#rankingstabla tr:nth-child(even) {
+    background: #e5e5e5
+}
+
+#rankingstabla tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#cuadroest tr:nth-child(even) {
+    background: #e5e5e5
+}
+
+#cuadroest tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#rankingstabla tr td:nth-child(2) {
+    text-align: left
+}
+
+#rankingstabla tr td:nth-child(2),
+#rankingstabla tr td:nth-child(3),
+#rankingstabla tr td:nth-child(4),
+#rankingstabla tr td:nth-child(5),
+#rankingstabla tr td:nth-child(6),
+#rankingstabla tr td:nth-child(7),
+#rankingstabla tr td:nth-child(8) {
+    text-align: center;
+    font-size: 1.1em
+}
+
+.pr {
+    background: #e5e5e5
+}
+
+.ipr {
+    background: #d5d5d5
+}
+
+.cp1 {
+    background: green;
+    color: #fff
+}
+
+.cp2 {
+    background: #00af71;
+    color: #fff
+}
+
+.cp3 {
+    background: #f5f374
+}
+
+.cp4 {
+    background: #e8d747
+}
+
+.ds1 {
+    background: red;
+    color: #fff
+}
+
+.ds2 {
+    background: #d68526;
+    color: #fff
+}
+
+.ds5 {
+    background: #000;
+    color: #fff
+}
+
+.abajotabla .cp1,
+.abajotabla .cp2,
+.abajotabla .ds1,
+.abajotabla .ds2,
+.abajotabla .ds5 {
+    font-size: .8em;
+    text-shadow: 1px 1px 1px #000;
+    display: block;
+    border-top: 1px solid #000
+}
+
+.abajotabla .cp3,
+.abajotabla .cp4 {
+    font-size: .8em;
+    text-shadow: .2px .2px .5px #000;
+    display: block;
+    border-top: 1px solid #000
+}
+
+#fixtseccion {
+    width: 400px;
+    float: right;
+    font-size: .9em
+}
+
+.rankdec td {
+    text-align: center;
+    background: #125e2a;
+    color: #fff;
+    font-weight: 700
+}
+
+#campeones {
+    background: #125e2a;
+    color: #fff;
+    text-align: center;
+    font-size: .9em
+}
+
+#col1,
+#col2,
+#col3,
+#col4 {
+    float: left
+}
+
+#col1 {
+    width: 99%;
+    margin: auto
+}
+
+#col2 {
+    width: 49%
+}
+
+#col3 {
+    width: 32%
+}
+
+#col4 {
+    width: 25%
+}
+
+.titcamp {
+    color: #9af72e;
+    font-weight: 700;
+    font-style: italic
+}
+
+#selfecha {
+    width: 99%;
+    background: #00612d;
+    border: 1px solid #000
+}
+
+#flechaatr,
+#flechaad,
+#flechaatrno,
+#flechaadno {
+    width: 15%;
+    float: left
+}
+
+#flechaatr,
+#flechaad {
+    cursor: pointer
+}
+
+#flechaatrno,
+#flechaadno {
+    color: #00612d
+}
+
+#fechmedio {
+    width: 70%;
+    color: #c2e213;
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 700
+}
+
+#tablaseccion {
+    width: 380px;
+    float: left
+}
+
+#tablaseccion2 {
+    width: 400px;
+    float: left
+}
+
+.abajofix {
+    background: #00612d;
+    color: #fff;
+    font-size: 12px;
+    text-shadow: 1px 1px 1px #000
+}
+
+.cfecha,
+.cfechact {
+    float: left;
+    margin-left: 3px;
+    background: #00612d;
+    color: #fff;
+    font-size: 14px;
+    text-shadow: 1px 1px 1px #000;
+    padding: 2px;
+    border: 1px solid #000;
+    cursor: pointer
+}
+
+.cfechact {
+    background: #68a54b
+}
+
+#goleadorest {
+    text-align: center;
+    font-size: .9em;
+    width: 380px;
+    font-weight: 700
+}
+
+#goleadorest img {
+    width: 18px
+}
+
+#historneos {
+    float: left;
+    width: 480px
+}
+
+#historneos table {
+    width: 480px;
+    font-size: 1em
+}
+
+#historneos table i {
+    font-size: .8em
+}
+
+#historneos tr:nth-child(even) {
+    background: #e5e5e5
+}
+
+#historneos tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#historneos tr td:nth-child(1) {
+    text-align: center
+}
+
+.lch {
+    font-size: .7em
+}
+
+.lch2 {
+    font-size: .85em
+}
+
+#clubesnac {
+    width: 100%
+}
+
+.eqs {
+    float: left;
+    width: 190px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    background: #102100;
+    color: #fff;
+    font-weight: 700
+}
+
+.eqs a {
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none
+}
+
+.eqs i {
+    color: #9acd32;
+    font-size: 13px
+}
+
+.cp9 {
+    background: #01381b;
+    color: #fff;
+    font-size: .9em;
+    display: block
+}
+
+.cp9 i {
+    color: #b0e0e6
+}
+
+.horaact {
+    clear: both;
+    background: #006400;
+    text-align: center;
+    font-size: .9em;
+    color: #fff;
+    width: 300px;
+    margin: auto
+}
+
+.horaact i {
+    font-size: .8em
+}
+
+.nr {
+    background: #b9d6b8;
+    font-weight: 700
+}
+
+.grgameinfo a {
+    display: block;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px
+}
+
+#tablagrupos {
+    width: 800px
+}
+
+.grupo {
+    width: 380px;
+    float: left;
+    margin-left: 15px
+}
+
+.grupo .material-icons {
+    font-size: 15px
+}
+
+#fixgrupo {
+    width: 47%;
+    margin-left: 9px;
+    float: left;
+    text-align: center;
+    margin-top: 5px
+}
+
+.fechagrupo {
+    background: #000;
+    color: #fff;
+    clear: both;
+    font-size: 12px
+}
+
+.diahoragr {
+    font-size: 12px;
+    color: #fff;
+    height: 17px;
+    clear: both;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 700;
+    background: #155219
+}
+
+.grtr {
+    width: 100%;
+    display: flex;
+    height: 20px
+}
+
+.greq1,
+.greq2 {
+    width: 32%;
+    background: #e5e5e5;
+    color: #000;
+    font-size: 12px;
+    float: left;
+    font-weight: 700
+}
+
+.grres4,
+.grres0,
+.grres1 {
+    width: 21%;
+    background: #fff;
+    color: #000;
+    font-size: 16px;
+    float: left;
+    font-weight: 700
+}
+
+.grres0 {
+    background: #f5f5f5;
+    color: #000
+}
+
+.grres1 {
+    background: #b50000;
+    color: #fff
+}
+
+.grgameinfo {
+    width: 15%;
+    background: green;
+    color: #fff;
+    font-size: 13px;
+    float: left
+}
+
+.right {
+    float: right;
+    color: #00ced1
+}
+
+.cfecha a {
+    text-decoration: none;
+    color: #00fbff
+}
+
+.nog {
+    font-weight: 400
+}
+
+.round {
+    float: left
+}
+
+.match {
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
+    position: relative
+}
+
+.match img {
+    width: 16px
+}
+
+.team {
+    background: #EEE;
+    display: flex
+}
+
+.team2 {
+    background: #c1c1c1;
+    display: flex
+}
+
+.label {
+    white-space: nowrap;
+    overflow: hidden;
+    color: #000;
+    text-overflow: clip;
+    float: left;
+    font-size: 13px
+}
+
+.labelelim {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    color: #708090;
+    float: left;
+    font-size: 13px
+}
+
+.score {
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    background: #3a3030;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+.pty {
+    color: #ff0;
+    font-size: 12px;
+    text-shadow: 1px 1px 1px #000
+}
+
+.connector {
+    border: 1px solid #a2a2a2;
+    border-left-style: none;
+    position: absolute;
+    z-index: 1
+}
+
+.titulplayoff {
+    display: block;
+    font-size: 16px;
+    background: #01651f;
+    color: #fff;
+    text-align: center;
+    text-shadow: #000 .1em .1em .1em
+}
+
+#partoff {
+    width: 380px;
+    float: left;
+    margin-left: 16px
+}
+
+#partoff1 {
+    width: 380px;
+    margin: auto
+}
+
+.pin {
+    font-size: 16px
+}
+
+.pen {
+    font-size: 14px;
+    color: red
+}
+
+.cancha {
+    background: #c4564e;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700
+}
+
+#clubseccion {
+    text-align: center;
+    font-size: 16px;
+    background: #00612d;
+    color: #fff;
+    border: 1px solid #000;
+    width: 100%;
+    text-shadow: 1px 1px 1px #000
+}
+
+#clubseccion i {
+    color: #ff0;
+    font-size: 15px
+}
+
+.titulo {
+    font-size: 1.4em
+}
+
+.letrach {
+    font-size: .8em
+}
+
+.clubder {
+    width: 47%;
+    margin-left: 3%;
+    float: left
+}
+
+.clubizq {
+    width: 47%;
+    margin-left: 3%;
+    float: left
+}
+
+#verficha {
+    box-shadow: inset 0 1px 0 0 #9acc85;
+    background-color: #68a54b;
+    border: 1px solid #3b6e22;
+    display: inline-block;
+    cursor: pointer;
+    padding: 1.5px;
+    text-align: center;
+    padding-left: 4px;
+    padding-right: 4px
+}
+
+a #verficha {
+    font-size: 14px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-decoration: none
+}
+
+#verficha:hover {
+    background-color: #3aa507
+}
+
+#fixclub {
+    width: 380px;
+    float: left;
+    margin-left: 12px
+}
+
+#fixclub .md-18 {
+    font-size: 20px
+}
+
+#fixclub a {
+    display: block;
+    color: green
+}
+
+.fixclub {
+    width: 380px;
+    font-size: .9em;
+    text-align: center
+}
+
+.fixclub tr td:nth-child(4) {
+    text-align: left
+}
+
+.fixclub tr td:nth-child(3) {
+    font-weight: 700
+}
+
+.fixclub th {
+    color: #fff;
+    background: #000
+}
+
+.fixclub .loc {
+    background: #e5e5e5
+}
+
+.fixclub .vis {
+    background: #d5d5d5
+}
+
+.fixclub .vic,
+#historial .vic {
+    background: green;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 700
+}
+
+.fixclub .perd,
+#historial .perd {
+    background: red;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 700
+}
+
+.fixclub .emp,
+#historial .emp {
+    background: #ffeb3b;
+    color: #000;
+    font-size: 1em;
+    font-weight: 700
+}
+
+#tabplantel {
+    width: 380px;
+    font-size: 14px;
+    background: #a6a2a2
+}
+
+.arq,
+.def,
+.med,
+.del,
+.tec {
+    font-size: 12px;
+    text-align: center;
+    background: #000
+}
+
+.arq {
+    color: #dddd4c
+}
+
+.def {
+    color: #8dddd2
+}
+
+.med {
+    color: #9bd048
+}
+
+.del {
+    color: #e39a86
+}
+
+.tec {
+    color: #fff;
+    font-weight: 700
+}
+
+#tabplantel i {
+    font-size: 11px;
+    font-style: normal
+}
+
+#tabplantel tr:nth-child(even) {
+    background: #d5d5d5;
+    color: #000
+}
+
+#tabplantel tr:nth-child(odd) {
+    background: #e5e5e5;
+    color: #000
+}
+
+#tabplantel tr:nth-child(odd) td:nth-child(3) {
+    text-align: center
+}
+
+#tabplantel tr:nth-child(even) td:nth-child(1) {
+    text-align: center
+}
+
+#tabplantel .jugador {
+    font-weight: 700
+}
+
+#tabhist {
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px
+}
+
+#tabhist table {
+    width: 380px
+}
+
+#tabhist td {
+    font-size: 12.5px
+}
+
+#tabhist #posiciones td:nth-child(2) {
+    text-align: left
+}
+
+#tabhist #posiciones tr:nth-child(even) {
+    background: #e5e5e5
+}
+
+#tabhist #posiciones tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#divcuadro {
+    background: #1c3a1c;
+    color: #fff;
+    width: 600px;
+    margin: auto;
+    font-size: 11.5px
+}
+
+.contenedorfecha {
+    width: 190px;
+    float: left;
+    margin-left: 10px;
+    background: #efefef;
+    font-size: 11px;
+    margin-top: 10px
+}
+
+.golcal {
+    width: 50px
+}
+
+.golcal input {
+    width: 15px;
+    font-size: 14px;
+    font-weight: 700
+}
+
+.listafecha {
+    width: 190px;
+    table-layout: fixed
+}
+
+.listafecha td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+.listafecha td:nth-child(2),
+.listafecha td:nth-child(4) {
+    width: 20px
+}
+
+.listafecha td:nth-child(1),
+.listafecha td:nth-child(5) {
+    width: 40px
+}
+
+.quefecha {
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    text-align: center
+}
+
+#botonescalc {
+    width: 380px;
+    float: left;
+    margin-left: 10px
+}
+
+.botoncalc {
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    background: orange;
+    color: #000;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 700;
+    cursor: pointer
+}
+
+.terminado {
+    background: #a5a5a5
+}
+
+.verdeosc {
+    background: #134830
+}
+
+.botlink,
+.botlink2 {
+    text-align: center;
+    font-size: 16px
+}
+
+.botlink a,
+.botlink2 a {
+    text-decoration: none;
+    color: #c2e213;
+    font-size: 16px
+}
+
+.botlink2 a {
+    font-size: 12px
+}
+
+#botlink3 {
+    margin: auto;
+    width: 100px;
+    height: 35px;
+    background: url(/web/20240801211034im_/https://www.promiedos.com.ar/images/seguinos.png)
+}
+
+#botlink3 #part1,
+#botlink3 #part2,
+#botlink3 #part3 {
+    display: table-cell;
+    width: 100px;
+    height: 35px
+}
+
+#historialpart {
+    width: 100%
+}
+
+.terminado {
+    background: #a5a5a5
+}
+
+#historialpart {
+    width: 400px;
+    margin: auto
+}
+
+.verdeosc {
+    background: #134830
+}
+
+.eqshis {
+    font-size: 14px;
+    width: 187px;
+    color: #fff;
+    float: left;
+    height: 380px;
+    background: #00612d;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid #000;
+    text-shadow: 1px 1px 1px #000
+}
+
+.chistorial {
+    font-weight: 400;
+    font-size: 14px;
+    text-shadow: none
+}
+
+.chistorial i {
+    font-weight: 700;
+    font-size: 15px;
+    color: #ff0;
+    font-style: normal
+}
+
+.chistorial strong {
+    color: #efcc64;
+    text-shadow: 1px 1px 1px #000
+}
+
+#clubhist {
+    background: #2e5942;
+    float: left;
+    width: 196px;
+    font-size: 14px;
+    margin-left: 2px;
+    margin-top: 2px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000
+}
+
+#clubhist a {
+    text-decoration: none;
+    color: #fff;
+    display: block
+}
+
+#tablahistorial {
+    width: 380px;
+    float: left;
+    font-size: 1.1em
+}
+
+#historial {
+    font-size: .9em;
+    width: 380px;
+    text-align: center
+}
+
+#historial tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#historial tr:nth-child(even) {
+    background: #e5e5e5;
+    background: #e5e5e5
+}
+
+#historial td:nth-child(1) {
+    font-weight: 700;
+    text-align: left
+}
+
+#historial tr {
+    overflow: hidden;
+    text-overflow: clip;
+    white-space: nowrap;
+    max-width: 120px
+}
+
+#historial tr td a {
+    color: green
+}
+
+#maxgoleadas {
+    width: 400px;
+    float: left;
+    margin-left: 15px
+}
+
+#rankint {
+    width: 480px;
+    float: left
+}
+
+#rankint table {
+    width: 480px;
+    font-size: 1em
+}
+
+#rankint th {
+    color: #fff;
+    background: #000
+}
+
+#rankint i {
+    font-size: .9em
+}
+
+#rankint tr:nth-child(even) {
+    background: #e5e5e5
+}
+
+#rankint tr:nth-child(odd) {
+    background: #d5d5d5
+}
+
+#rankint tr td {
+    text-align: center
+}
+
+#rankint tr td:nth-child(1) {
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px
+}
+
+#rankint tr td:nth-child(2) {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em
+}
+
+.veb,
+.vpb,
+.vgb {
+    background: #ff0;
+    border: .5px solid;
+    float: left;
+    margin-top: 10px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%
+}
+
+.vpb {
+    background: red
+}
+
+.vgb {
+    background: #0af30a
+}
+
+#cajacomentarios {
+    width: 550px;
+    float: left
+}
+
+#elcomentario {
+    background: #EDEDED;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 100%;
+    font-size: .9em;
+    display: flex
+}
+
+.nombreyclub {
+    background: #e0e0e0;
+    float: left;
+    font-size: 1em;
+    font-weight: 700;
+    margin-right: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 20%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip
+}
+
+.vote {
+    color: #000;
+    text-decoration: none
+}
+
+.mensaje {
+    width: 75%;
+    overflow: hidden;
+    text-overflow: clip;
+    font-size: 1.1em
+}
+
+.up {
+    margin-top: 3px;
+    cursor: pointer
+}
+
+.fechayhora {
+    font-size: .7em
+}
+
+#cajatexto {
+    float: left;
+    width: 220px;
+    margin-left: 20px;
+    font-size: .9em;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    background: #125e2a;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+#comentario {
+    color: #000;
+    font-size: 1.1em;
+    width: 200px;
+    height: 100px
+}
+
+.reg {
+    background: #2c5e59;
+    border: 1px solid #000;
+    padding-top: 2px;
+    padding-bottom: 4px
+}
+
+.reg a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 700
+}
+
+.paginacion {
+    width: 100%;
+    text-align: center;
+    color: #fff
+}
+
+.paginacion a {
+    color: #C2E213;
+    text-decoration: none
+}
+
+.up .material-icons {
+    font-size: 16px
+}
+
+.dedoar {
+    color: green
+}
+
+.dedoab {
+    color: #861913
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 33px;
+    height: 22px
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 30px
+}
+
+.slider2 {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 1px;
+    bottom: 1px;
+    background-color: #fff;
+    border-radius: 30px
+}
+
+.slider3 {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #72ab57;
+    border-radius: 30px
+}
+
+.slider4 {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 12px;
+    bottom: 1px;
+    background-color: #fff;
+    border-radius: 30px
+}
+
+#adv {
+    background: #bb0040;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700
+}
+
+ul {
+    padding-inline-start: 3px
+}
+
+#pub728 {
+    margin: auto;
+    width: 728px;
+    height: 90px
+}
+
+thead th {
+    font-size: 0.85em
+}
